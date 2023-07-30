@@ -2,3 +2,4 @@ GITの練習をしていきます。
 変更しました
 rmを学ぶ
 git status
+git diff
